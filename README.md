@@ -1,2 +1,1 @@
-# movie-recomendation-system
-Machine Learning 
+# Movie-Recommender-in-python
